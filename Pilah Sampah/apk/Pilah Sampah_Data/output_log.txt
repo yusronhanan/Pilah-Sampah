@@ -1,0 +1,37 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 820M         (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     1996 MB
+    Driver:   10.18.13.5906
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\unity\Pilah Sampah\Pilah Sampah\apk\Pilah Sampah_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\unity\Pilah Sampah\Pilah Sampah\apk\Pilah Sampah_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\unity\Pilah Sampah\Pilah Sampah\apk\Pilah Sampah_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\unity\Pilah Sampah\Pilah Sampah\apk\Pilah Sampah_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\unity\Pilah Sampah\Pilah Sampah\apk\Pilah Sampah_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\unity\Pilah Sampah\Pilah Sampah\apk\Pilah Sampah_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\unity\Pilah Sampah\Pilah Sampah\apk\Pilah Sampah_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\unity\Pilah Sampah\Pilah Sampah\apk\Pilah Sampah_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\unity\Pilah Sampah\Pilah Sampah\apk\Pilah Sampah_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\unity\Pilah Sampah\Pilah Sampah\apk\Pilah Sampah_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: E:\unity\Pilah Sampah\Pilah Sampah\apk\Pilah Sampah_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\unity\Pilah Sampah\Pilah Sampah\apk\Pilah Sampah_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.060 seconds
+Platform assembly: E:\unity\Pilah Sampah\Pilah Sampah\apk\Pilah Sampah_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\unity\Pilah Sampah\Pilah Sampah\apk\Pilah Sampah_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.660153 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.226638 ms
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 238.
+Total: 0.382322 ms (FindLiveObjects: 0.032929 ms CreateObjectMapping: 0.032501 ms MarkObjects: 0.214682 ms  DeleteObjects: 0.092800 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1df8 -> priority: 1 
